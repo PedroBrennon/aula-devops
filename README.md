@@ -5,3 +5,5 @@ Trabalhando com git
 ## Gerando conflitos
 
 Conflito 1
+
+Conflito 2
